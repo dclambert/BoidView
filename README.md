@@ -1,7 +1,8 @@
 BoidView
 ========
 
-[very old] Python/OpenGL implementation of Craig Reynold's flocking algorithm
+very old Python/OpenGL implementation of Craig Reynold's flocking algorithm
 from:
 
-    Reynolds, Flocks, herds, and schools: a distributed behavioral model (1987) 
+Reynolds, Craig, "Flocks, herds, and schools: a distributed behavioral model",
+   Computer Graphics, 1987
