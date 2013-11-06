@@ -4,7 +4,7 @@
 #
 #     OpenGL flocking visualization
 #
-#     Copyright (c) 2006, David C. Lambert
+#     Copyright (c) 2013, David C. Lambert
 #
 ################################################################################
 
